@@ -1,28 +1,27 @@
+```md
 <div align="center">
 
 # JOHN KARLO TALAGTAG
 
-### Software Engineer
+### Software Engineer • Frontend Developer • Full Stack Developer • AI Enthusiast
 
-Building modern software with clean architecture, intuitive user experiences, and AI-powered business solutions.
-
-<p>
-
-<a href="https://github.com/jktalagtag-dev">
-<img src="https://komarev.com/ghpvc/?username=jktalagtag-dev&label=Profile+Views&style=flat-square" />
-</a>
-
-</p>
+Building modern software with clean architecture, polished user experiences, and AI-powered business solutions.
 
 <p>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-<a href="https://yourportfolio.com">Portfolio</a>
-•
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
-•
-<a href="mailto:your@email.com">Email</a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=jktalagtag-dev&style=flat-square&color=000000" />
 
 </div>
 
@@ -30,108 +29,125 @@ Building modern software with clean architecture, intuitive user experiences, an
 
 # About
 
-I'm **John Karlo Talagtag**, a Software Engineer from the Philippines passionate about building products that combine thoughtful design, scalable architecture, and modern technologies.
+I'm **John Karlo Talagtag**, a Software Engineer from the Philippines passionate about building products that combine thoughtful UI, scalable backend architecture, and practical AI.
 
-I enjoy developing applications from frontend to backend, creating systems that solve real business problems while delivering polished user experiences.
+I enjoy taking projects from concept to deployment—designing intuitive user interfaces, developing robust APIs, and delivering software that solves real business problems.
 
-Recently graduated with a **Bachelor of Science in Information Technology (Cum Laude)** and currently seeking opportunities where I can contribute, learn, and grow as a software engineer.
+🎓 BS Information Technology Graduate (Cum Laude)
+
+🚀 Currently looking for Software Engineer opportunities.
 
 ---
 
-# What I'm Working On
+# Current Focus
 
-- Enterprise AI Business Platform
-- Predictive Inventory System
-- Modern Portfolio Website
-- Software Engineering Best Practices
-- Docker & DevOps
+- Enterprise Software
+- AI Business Applications
+- React & Laravel
 - System Design
-- AI Integration
-- Clean Architecture
+- Backend Architecture
+- Clean Code
+- Performance Optimization
+- Developer Experience
 
 ---
 
 # Featured Projects
 
-## AI Business Platform
+## 🤖 AI Business Platform
 
-Enterprise platform that combines AI assistance, HR management, inventory, ticketing, reporting, and business automation into one ecosystem.
+An enterprise platform integrating AI chat, HR management, inventory, ticketing, reporting, and business automation into one modern ecosystem.
 
-**Tech**
+**Stack**
 
-React • Laravel • PostgreSQL • Redis • Docker
-
----
-
-## Predictive Inventory System
-
-Forecasting and inventory management platform using Simple Moving Average (SMA) and Economic Order Quantity (EOQ) algorithms.
-
-**Tech**
-
-React • Laravel • PostgreSQL
+- React
+- Laravel
+- PostgreSQL
+- Redis
+- Docker
 
 ---
 
-## Guidance Management System
+## 📦 Predictive Inventory System
 
-Capstone project developed for Forbes College featuring a Safe-Response AI chatbot and complete digital guidance office management.
+Smart inventory management platform using **Simple Moving Average (SMA)** forecasting and **Economic Order Quantity (EOQ)** calculations.
 
-**Tech**
+**Features**
 
-React • Laravel • MySQL
+- Demand Forecasting
+- EOQ Reordering
+- Sales Analytics
+- Inventory Monitoring
+- Supplier Management
+- Reports Dashboard
 
 ---
 
-## Portfolio
+## 🎓 Guidance Management System
 
-Editorial-inspired portfolio focused on premium UI, motion, accessibility, and performance.
+Capstone project developed for Forbes College featuring a Safe-Response AI Chatbot and complete digital guidance office management.
 
-**Tech**
+**Highlights**
 
-React • Tailwind CSS • Framer Motion • GSAP
+- Student Records
+- Appointment Scheduling
+- Counseling Management
+- AI Chat Assistant
+- Case Tracking
+
+---
+
+## 🌐 Personal Portfolio
+
+A modern editorial-inspired portfolio focused on motion, accessibility, responsiveness, and clean user experience.
+
+Built with:
+
+- React
+- Tailwind CSS
+- Framer Motion
+- GSAP
 
 ---
 
 # Tech Stack
 
-## Frontend
+### Frontend
 
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite)
 
-## Backend
+### Backend
 
-- Laravel
-- PHP
-- Node.js
+![Laravel](https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=php)
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js)
 
-## Database
+### Database
 
-- PostgreSQL
-- MySQL
-- Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-20232A?style=flat-square&logo=redis)
 
-## Tools
+### Tools
 
-- Git
-- GitHub
-- Docker
-- Figma
-- VS Code
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker)
+![Figma](https://img.shields.io/badge/Figma-20232A?style=flat-square&logo=figma)
+![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=flat-square&logo=visualstudiocode)
 
 ---
 
 # Engineering Principles
 
-- Build maintainable software.
-- Prioritize user experience.
-- Write readable code.
+- Build software that lasts.
 - Performance is a feature.
+- Simplicity beats complexity.
+- Great UX is part of engineering.
+- Write code for humans first.
 - Learn continuously.
 - Ship. Measure. Improve.
 
@@ -139,56 +155,57 @@ React • Tailwind CSS • Framer Motion • GSAP
 
 # GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jktalagtag-dev&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktalagtag-dev&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jktalagtag-dev&theme=transparent&hide_border=true"/>
 
-</p>
-
----
-
-# Current Learning
-
-- Software Engineering
-- AI Applications
-- Docker
-- Redis
-- Testing
-- CI/CD
-- Cloud Deployment
-- System Design
+</div>
 
 ---
 
 # 2026 Goals
 
-- Land my first Software Engineering role
-- Build production-ready SaaS applications
-- Master React & Laravel architecture
-- Learn cloud infrastructure
-- Contribute to open source
-- Publish technical articles
+- ✅ Land my first Software Engineering role
+- 🚀 Build production-ready SaaS products
+- 📚 Master System Design
+- 🤖 Develop AI-powered applications
+- ☁️ Learn Cloud Infrastructure
+- 🌍 Contribute to Open Source
+
+---
+
+# Currently Learning
+
+- Docker
+- Redis
+- CI/CD
+- AI Agents
+- Testing
+- Cloud Deployment
+- Software Architecture
 
 ---
 
 # Quote
 
-> "Great software isn't just functional—it should be intuitive, maintainable, and built with intention."
+> **"Great software isn't just functional. It's intuitive, scalable, maintainable, and built with intention."**
 
 ---
 
-# Let's Connect
+# Connect
 
 🌐 Portfolio  
-https://yourportfolio.com
+https://your-portfolio.com
 
 💼 LinkedIn  
 https://linkedin.com/in/your-linkedin
@@ -200,8 +217,9 @@ your@email.com
 
 <div align="center">
 
-**Thanks for stopping by!**
+### Thanks for visiting!
 
-If you like my work, consider ⭐ starring a repository.
+If you enjoy my work, consider ⭐ starring one of my repositories.
 
 </div>
+```
