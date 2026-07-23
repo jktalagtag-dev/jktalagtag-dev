@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm John Karlo Talagtag 👋
+# Hi there, I'm John Karlo Talagtag
 
 ### Software Engineer • Frontend Developer • AI Enthusiast
 
