@@ -7,15 +7,15 @@
 Building modern software with clean architecture, polished user experiences, and AI-powered business solutions.
 
 <p>
-  <a href="https://your-portfolio.com">
+  <a href="https://your-portfolio.com](https://jkt-dev-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/john-karlo-talagtag-a19954406">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:your@email.com">
+  <a href="mailto:talagtagjohnkarlo4@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
