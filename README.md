@@ -32,9 +32,9 @@ I'm **John Karlo Talagtag**, a Software Engineer from the Philippines passionate
 
 I enjoy taking projects from concept to deployment—designing intuitive user interfaces, developing robust APIs, and delivering software that solves real business problems.
 
-🎓 BS Information Technology Graduate (Cum Laude)
+BS Information Technology Graduate (Cum Laude)
 
-🚀 Currently looking for Software Engineer opportunities.
+Currently looking for Software Engineer opportunities.
 
 ---
 
@@ -53,7 +53,7 @@ I enjoy taking projects from concept to deployment—designing intuitive user in
 
 # Featured Projects
 
-## 🤖 AI Business Platform
+## AI Business Platform
 
 An enterprise platform integrating AI chat, HR management, inventory, ticketing, reporting, and business automation into one modern ecosystem.
 
@@ -67,7 +67,7 @@ An enterprise platform integrating AI chat, HR management, inventory, ticketing,
 
 ---
 
-## 📦 Predictive Inventory System
+## Predictive Inventory System
 
 Smart inventory management platform using **Simple Moving Average (SMA)** forecasting and **Economic Order Quantity (EOQ)** calculations.
 
@@ -82,7 +82,7 @@ Smart inventory management platform using **Simple Moving Average (SMA)** foreca
 
 ---
 
-## 🎓 Guidance Management System
+## Guidance Management System
 
 Capstone project developed for Forbes College featuring a Safe-Response AI Chatbot and complete digital guidance office management.
 
@@ -96,7 +96,7 @@ Capstone project developed for Forbes College featuring a Safe-Response AI Chatb
 
 ---
 
-## 🌐 Personal Portfolio
+## Personal Portfolio
 
 A modern editorial-inspired portfolio focused on motion, accessibility, responsiveness, and clean user experience.
 
@@ -174,12 +174,12 @@ Built with:
 
 # 2026 Goals
 
-- ✅ Land my first Software Engineering role
-- 🚀 Build production-ready SaaS products
-- 📚 Master System Design
-- 🤖 Develop AI-powered applications
-- ☁️ Learn Cloud Infrastructure
-- 🌍 Contribute to Open Source
+- Land my first Software Engineering role
+- Build production-ready SaaS products
+- Master System Design
+- Develop AI-powered applications
+- Learn Cloud Infrastructure
+- Contribute to Open Source
 
 ---
 
@@ -195,22 +195,16 @@ Built with:
 
 ---
 
-# Quote
-
-> **"Great software isn't just functional. It's intuitive, scalable, maintainable, and built with intention."**
-
----
-
 # Connect
 
 🌐 Portfolio  
-https://your-portfolio.com
+https://your-portfolio.com](https://jkt-dev-portfolio.vercel.app
 
 💼 LinkedIn  
-https://linkedin.com/in/your-linkedin
+https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/john-karlo-talagtag-a19954406
 
 📧 Email  
-your@email.com
+talagtagjohnkarlo4@gmail.com
 
 ---
 
