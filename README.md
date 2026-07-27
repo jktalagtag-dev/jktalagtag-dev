@@ -152,26 +152,6 @@ Built with:
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jktalagtag-dev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktalagtag-dev&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jktalagtag-dev&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 # 2026 Goals
 
 - Land my first Software Engineering role
