@@ -67,21 +67,6 @@ An enterprise platform integrating AI chat, HR management, inventory, ticketing,
 
 ---
 
-## Predictive Inventory System
-
-Smart inventory management platform using **Simple Moving Average (SMA)** forecasting and **Economic Order Quantity (EOQ)** calculations.
-
-**Features**
-
-- Demand Forecasting
-- EOQ Reordering
-- Sales Analytics
-- Inventory Monitoring
-- Supplier Management
-- Reports Dashboard
-
----
-
 ## Guidance Management System
 
 Capstone project developed for Forbes College featuring a Safe-Response AI Chatbot and complete digital guidance office management.
@@ -140,29 +125,6 @@ Built with:
 
 ---
 
-# Engineering Principles
-
-- Build software that lasts.
-- Performance is a feature.
-- Simplicity beats complexity.
-- Great UX is part of engineering.
-- Write code for humans first.
-- Learn continuously.
-- Ship. Measure. Improve.
-
----
-
-# 2026 Goals
-
-- Land my first Software Engineering role
-- Build production-ready SaaS products
-- Master System Design
-- Develop AI-powered applications
-- Learn Cloud Infrastructure
-- Contribute to Open Source
-
----
-
 # Currently Learning
 
 - Docker
@@ -178,21 +140,12 @@ Built with:
 # Connect
 
 🌐 Portfolio  
-https://your-portfolio.com](https://jkt-dev-portfolio.vercel.app
+https://jkt-dev-portfolio.vercel.app
 
 💼 LinkedIn  
-https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/john-karlo-talagtag-a19954406
+https://www.linkedin.com/in/john-karlo-talagtag-a19954406
 
 📧 Email  
 talagtagjohnkarlo4@gmail.com
 
 ---
-
-<div align="center">
-
-### Thanks for visiting!
-
-If you enjoy my work, consider ⭐ starring one of my repositories.
-
-</div>
-```
